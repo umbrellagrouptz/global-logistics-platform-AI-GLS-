@@ -1,206 +1,339 @@
-# 🧠 AVI.md — SYSTEM BRAIN v1 (MASTER STRUCTURED VERSION)
-## Global Logistics AI Platform (AI-GLP / AVI SYSTEM)
+🧠 AVI.md — SYSTEM BRAIN v4 (MASTER CANONICAL DOCTRINE)
+Global Logistics AI Platform (AI-GLP / AVI SYSTEM)
 
----
+========================================================
+🟦 1. CORE VISION (WHY THIS SYSTEM EXISTS)
+========================================================
 
-# 🟦 1. VISION (WHY THIS SYSTEM EXISTS)
+The AVI / AI-GLP system is a global, AI-powered logistics operating system designed to unify transportation, trade, finance, and enterprise logistics into a single intelligent infrastructure layer.
 
-The AVI / AI-GLP system is a global, AI-powered logistics and enterprise platform designed to unify modern transportation, trade, and digital operations into a single intelligent system.
+It is not a delivery app or trucking platform — it is a GLOBAL LOGISTICS OPERATING SYSTEM (GLOS).
 
-It is built to support:
+It supports:
 
-- Real-time global transport tracking
+- Real-time global transport coordination
 - AI-driven dispatch optimization
-- Multi-role logistics ecosystem (drivers, clients, companies, admins, agents)
-- Global freight coordination (land, air, sea)
-- Financial + trade + compliance integration
-- Future ERP-level expansion and interoperability
+- Multi-role logistics ecosystem
+- Land, Air, Sea logistics integration
+- Financial + ERP + Trade convergence
+- Global-scale scalable infrastructure (SME → Enterprise → Government)
 
-### Core Philosophy
+CORE PHILOSOPHY:
 
-> "Affordable, Accessible, Intelligent, Real-time global logistics infrastructure for all scales of operators."
+"Affordable. Intelligent. Real-time. Borderless logistics infrastructure for all operators globally."
 
-The system aims to become a unified logistics operating system for global-scale operations.
+System goal:
+→ Become the world’s #1 logistics operating system.
 
----
+========================================================
+🟨 2. MULTI-ROLE ECOSYSTEM (USERS & ACTORS)
+========================================================
 
-# 🟨 2. CURRENT SYSTEM ARCHITECTURE (WHAT EXISTS NOW)
+The system operates on a role-based architecture:
 
-## 📦 Frontend (ACTIVE)
-Location:
+- Customers (Individuals & Enterprises)
+- Drivers (Independent & Fleet Drivers)
+- Transport Companies (Fleet Operators)
+- Logistics Agents / Brokers
+- Administrators (Platform Governance)
+- Government / Compliance Entities (Future Layer)
 
-Frontend modules:
+Each role has:
 
-- AppShell (core layout system)
-- AppRouter (navigation system)
-- Sidebar navigation system
+- Dedicated dashboard
+- Permission-based access control
+- Role-specific workflows
+- Real-time operational visibility
 
-### Dashboards:
-- Tracking Dashboard
-- AI Dashboard
-- Analytics Dashboard
-- Command Center Dashboard
+========================================================
+🚚 3. MULTI-MODAL TRANSPORT SYSTEM
+========================================================
 
-### UI Components:
-- LiveMap (real-time tracking visualization)
-- IncidentBanner (alerts system)
-- ContactPanel (communication module)
-- Protected routing system (security layer)
+LAND TRANSPORT:
+- Trucks (light, medium, heavy)
+- Refrigerated vehicles
+- Container trucks
+- Last-mile delivery units
 
----
+AIR TRANSPORT:
+- Cargo aircraft
+- Charter logistics flights
+- Airline freight integration
 
-## ⚙️ Backend (PLANNED)
-- REST API layer
-- WebSocket real-time layer
-- Authentication service (Layer 22 dependency)
-- KYC verification engine
-- Dispatch API system
-- Payment integration layer
+SEA TRANSPORT:
+- Cargo ships
+- Container vessels
+- Marine logistics operators
 
----
+SYSTEM CAPABILITY:
+- Search, compare, book, and track across ALL transport modes
+- Unified logistics marketplace layer
 
-## 📱 Mobile (PLANNED)
-- Driver application
-- Client booking application
-- Live GPS tracking interface
-- Push notifications & alerts
+========================================================
+🧭 4. MARKETPLACE & MATCHING ENGINE
+========================================================
 
----
+The system provides:
 
-# 🛰️ CORE ENGINE LAYERS
+- Real-time provider discovery
+- Smart AI matching engine
+- Manual booking selection option
+- Dynamic pricing optimization
+- Route-based availability matching
 
-## 🚚 Logistics Core
-- trackingEngine
-- bookingEngine
-- dispatchOptimizer
-- shipment digital twin model
+Core logic:
+Customer → Request → AI Match → Provider → Dispatch → Tracking → Delivery
 
-## 📡 Real-Time System
-- gpsEngine
-- gpsSocket
-- gpsStream
-- streamingEngine
-- socketBus
+========================================================
+🧾 5. DOCUMENT GENERATION SYSTEM (CRITICAL LAYER)
+========================================================
 
-## 🚨 Incident & Emergency System
-- incidentEngine
-- emergencyEngine
-- Incident UI system
+The system includes a full enterprise document engine:
 
-## 🧠 AI & Intelligence Layer
-- aiOpsEngine
-- aiBatchEngine
-- predictionEngine
-- analyticsEngine
-- statsEngine
+GENERATED DOCUMENTS:
 
-## 💳 Finance Layer
-- paymentEngine
-- currencyEngine
-- exchangeRateEngine
-- financeEngine
+- Invoices
+- Receipts
+- Purchase Orders (POs)
+- Sales Orders (SOs)
+- Proforma Invoices (PFI)
+- Delivery Notes
+- Waybills
+- Customs Documents (future)
+- Insurance Documents (future)
+- Payment Proofs / Transaction Slips
+- Operational Reports
+- Financial Statements
+- Fleet Reports
+- Driver Reports
+- Trip Reports
 
-## 🌍 Trade & Compliance Layer
-- tradeEngine
-- shipment compliance model
-- customs-ready architecture (future)
+FEATURES:
 
-## 🔐 Security & Access Layer (FOUNDATION)
-- AuthContext
-- RoleContext
-- permissionEngine
-- Protected component
-- useSecurity hook
+- Auto-generated PDF output
+- Printable format (direct printer integration ready)
+- Digital signing capability (future)
+- Audit trail logging
+- Document version control
+- QR-code verification (anti-fraud layer)
 
----
+========================================================
+📡 6. REAL-TIME TRACKING SYSTEM
+========================================================
 
-# 🟥 3. ROADMAP + SYSTEM GOVERNANCE (WHERE IT IS GOING)
+- GPS-based tracking engine
+- Live map visualization
+- Multi-vehicle tracking (truck/ship/aircraft)
+- Event-based tracking logs
+- Geo-fence alerts
+- Delay & deviation detection
 
-## 🟡 Layer 21 — COMPLETED (FOUNDATION SECURITY)
-- Basic AuthContext
-- Role system
-- Permission system
-- Protected routing
-- Security hooks
+Tracking sources:
+- GPS devices
+- Mobile devices
+- AIS (marine)
+- ADS-B (air cargo tracking)
 
----
+========================================================
+🛰️ 7. GPS INTEGRATION ECOSYSTEM
+========================================================
 
-## 🔐 Layer 22 — CURRENT FOCUS (KYC + AUTH PRODUCTION)
+Supports universal GPS integration:
 
-This layer will implement full production authentication:
+- HTTP APIs
+- WebSockets
+- MQTT streams
+- TCP/UDP protocols
+- SMS fallback systems
 
-- OTP authentication system
-- Login / logout lifecycle
-- User onboarding flow
-- Identity verification (KYC)
-- Document verification pipeline
-- Session/token architecture
-- Secure role enforcement upgrade
+Hardware support:
+- Truck trackers (Teltonika, Queclink, etc.)
+- Marine AIS systems
+- Air cargo tracking systems
 
----
+Business expansion:
+- GPS device sales
+- GPS leasing model
+- Partner hardware ecosystem
 
-## 🚀 FUTURE DEVELOPMENT PHASES
+========================================================
+💳 8. PAYMENTS & FINANCE SYSTEM
+========================================================
 
-### Phase 2 — Backend Expansion
-- Full Node/NestJS API system
-- WebSocket real-time infrastructure
-- Scalable microservice design
+SUPPORTED PAYMENTS:
 
-### Phase 3 — Mobile Deployment
-- Driver mobile app
-- Client mobile app
-- Real-time tracking apps
+- Credit/Debit cards (Visa, Mastercard, Amex)
+- PayPal / Stripe
+- Mobile Money (M-Pesa, etc.)
+- Bank transfers (SWIFT)
+- Crypto payments (future)
+- Wallet system (internal)
 
-### Phase 4 — ERP Integrations
-- SAP
-- Odoo
-- QuickBooks Online
-- NetSuite
+FINANCIAL FEATURES:
 
-### Phase 5 — Global Expansion
-- Multi-country logistics marketplace
-- AI autonomous dispatch optimization
-- Global freight intelligence network
+- Split payments (deposit + balance)
+- Escrow system for shipments
+- Automated invoicing
+- Tax calculation engine
+- Multi-currency conversion
 
----
+SECURITY:
 
-# ⚠️ KNOWN ARCHITECTURAL ISSUE
+- PCI-DSS compliance
+- TLS 1.3 encryption
+- Tokenized transactions
+- MFA authentication
+- Fraud detection AI
 
-## Frontend Duplication
+========================================================
+🌍 9. MULTI-CURRENCY + MULTI-LANGUAGE + MULTI-THEME
+========================================================
 
-Current structure:
-### Impact:
-- navigation confusion
-- duplicated structure risk
-- development ambiguity
+MULTI-CURRENCY:
+- All global currencies supported
+- Real-time exchange rate engine
+- Local pricing conversion
 
-### Status:
-Not critical (no data loss), but must be cleaned in future refactor phase.
+MULTI-LANGUAGE:
+- Global multilingual UI system
+- Auto language detection
+- Regional localization engine
 
----
+MULTI-THEME SYSTEM:
+- Light mode
+- Dark mode
+- High-contrast mode
+- Regional cultural themes
+- Enterprise branding themes
 
-# 🧠 SYSTEM DESIGN PRINCIPLES
+========================================================
+🧠 10. AI & INTELLIGENCE LAYER
+========================================================
 
-- Never remove system capabilities, only extend them
-- Always build in structured layers (not random features)
-- All modules must remain loosely coupled
-- Git is the source of truth for code
-- AVI.md is the system brain (architecture truth layer)
+AI ENGINE COMPONENTS:
 
----
+- Dispatch Optimizer AI
+- Route Prediction Engine
+- Demand Forecasting System
+- Risk Analysis Engine
+- Delay Prediction System
+- Cost Optimization Engine
 
-# 🧭 RECOVERY STRATEGY
+EMERGENCY INTELLIGENCE:
+
+- Natural disaster monitoring
+- War/conflict zone detection
+- Route safety scoring
+- Alternative route recommendation
+- Real-time rerouting engine
+
+========================================================
+🚨 11. EMERGENCY & ADAPTIVE LOGISTICS SYSTEM
+========================================================
+
+System automatically handles:
+
+- Accidents
+- Weather disruptions
+- Political instability zones
+- Port closures
+- Airspace restrictions
+
+FUNCTIONS:
+
+- Auto rerouting
+- Cargo transfer planning (truck → ship → air)
+- Emergency alerts
+- Safety scoring per route
+
+========================================================
+🏗️ 12. ARCHITECTURE OVERVIEW
+========================================================
+
+MVP STACK:
+- Express.js backend
+- React frontend
+- React Native (Expo) mobile
+- Supabase database
+
+FUTURE STACK:
+- NestJS microservices
+- Event-driven architecture
+- WebSocket real-time core
+- AI microservices layer
+
+MICROSERVICES:
+
+- User Service
+- Shipment Service
+- Tracking Service
+- Payment Service
+- Notification Service
+- AI Engine Service
+- Document Service
+
+========================================================
+📊 13. DASHBOARD SYSTEM (FRONTEND CORE)
+========================================================
+
+DASHBOARD COMPONENTS:
+
+- Digital + Analog Hybrid Clock Widget
+- Live Global Map View Toggle
+- Admin Analytics Dashboard
+- Revenue & Operations Statistics Panel
+- Animated Advertisement & Promotions Panel
+- Company Social Media Hub
+- Contact & Support Panel
+- Emergency Monitoring Dashboard
+- AI Route Suggestions Panel
+
+UI PRINCIPLES:
+
+- Real-time data updates
+- Mobile-first responsive design
+- Minimal latency interface
+- Modular widget system
+
+========================================================
+📈 14. MONETIZATION STRATEGY
+========================================================
+
+REVENUE STREAMS:
+
+- Transaction fees per shipment
+- Subscription plans (SME / Enterprise)
+- Premium analytics dashboards
+- GPS hardware sales & leasing
+- API access for enterprises
+- Logistics intelligence reports
+- Advertising space in dashboard
+- ERP integration licensing
+
+========================================================
+🧩 15. SYSTEM DESIGN PRINCIPLES
+========================================================
+
+- Modular architecture only
+- No feature silos
+- Git = source of truth
+- AVI.md = system brain (canonical truth layer)
+- Always scalable from MVP → global system
+- Low-bandwidth optimization for emerging markets
+- Enterprise-grade extensibility
+
+========================================================
+🧭 16. RECOVERY & CONTINUITY SYSTEM
+========================================================
 
 If system resets:
 
-1. Clone repository from GitHub
+1. Clone repository
 2. Open AVI.md
-3. Identify latest Layer number
-4. Resume from that stage
+3. Identify latest version layer
+4. Resume from last stable state
 5. Continue modular expansion
 
----
-
-# 📌 END OF SYSTEM BRAIN v1
-
-
+========================================================
+📌 END OF SYSTEM BRAIN v4
+========================================================
